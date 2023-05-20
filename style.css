@@ -1,0 +1,16 @@
+div{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    align-items: center;
+    
+}
+p{
+    font-size: 1.5rem;
+    background-color: red;
+    padding: 1%;
+    color: antiquewhite;
+    height: 30px;
+    border-radius: 35%;
+}
